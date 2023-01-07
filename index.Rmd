@@ -1,5 +1,5 @@
 --- 
-title: "Statistical Analysis"
+title: "Statistical-Analysis"
 author: "Kundan Kumar"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
