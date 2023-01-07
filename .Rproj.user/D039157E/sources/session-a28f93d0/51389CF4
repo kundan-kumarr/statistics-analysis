@@ -1,26 +1,26 @@
 {
-    "id": "2DFE65F4",
+    "id": "51389CF4",
     "path": "~/Downloads/statistical-analysis/_output.yml",
     "project_path": "_output.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3291538293",
     "contents": "",
     "dirty": false,
-    "created": 1673054737619.0,
+    "created": 1673057005752.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,25",
+        "cursorPosition": "5,42",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673054764,
+    "lastKnownWriteTime": 1673057022,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673054764994,
+    "last_content_update": 1673057022680,
     "read_only": false,
     "read_only_alternatives": []
 }
