@@ -1,6 +1,6 @@
 # R Programming
 
-## Equations
+## Environment Set up
 
 Here is an equation.
 
@@ -12,19 +12,29 @@ Here is an equation.
 You may refer to using `\@ref(eq:binom)`, like see Equation \@ref(eq:binom).
 
 
-## Theorems and proofs
+## R- Basic Syntax
 
 Labeled theorems can be referenced in text using `\@ref(thm:tri)`, for example, check out this smart theorem \@ref(thm:tri).
 
 ::: {.theorem #tri}
 For a right triangle, if $c$ denotes the *length* of the hypotenuse
 and $a$ and $b$ denote the lengths of the **other** two sides, we have
-$$a^2 + b^2 = c^2$$
+$$a^2 + b^2 = d^2$$
 :::
 
-Read more here <https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html>.
+Read the here here <https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html>.
 
 ## Callout blocks
 
 
 The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html
+
+Stat 579
+
+## R- Data Types
+## R- Operators
+## R- Data Interfaces
+## R- ggplots
+## R- Elements of the tidyverse
+## R- Advanced data Structures
+

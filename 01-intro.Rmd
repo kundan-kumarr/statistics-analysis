@@ -1,11 +1,77 @@
-# Hello bookdown 
+# Statistics
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+### What is statistics?
+It is methods for Collecting, Describing, Analyzing,and drawing conclusions from Data with Random Variation.
+The methods are used for  :
+a. Design
+  •Planning research studies
+  •How to obtain the required data
+  
+Description
+  •Summarizing data
+  •Exploring patterns in the data
+  •Extract/condense information
+  •Graphical pictures of the data
 
-## A section
+Inference
+  •“Infer” from sample to population
+  •Generalize
+  •Make predictions based on the data
+
+## Terminology
+
+### Population
+– total set of all subjects of interest
+– the entire group of people, animals or things about
+which we want information
+Example
+– All Iowa State University students
+• Elementary Unit
+– any individual member of the population
+Example
+– any Iowa State University Student
+
+### Sample
+– subset of the population from which the study actually
+collects information
+– used to draw conclusions about the whole population
+Example
+– The class of STAT587-3
+– All graduate ISU students
+– All male ISU students
+– 40 Randomly selected ISU students
+
+
+### Variable
+– a characteristic of a unit that can vary among subjects in the
+population/sample
+Examples:
+– gender, nationality, age, income, hair color, height, disease
+status, grade in STAT 587-3, state of residence
+• Random Variable
+– Variable with random variation
+Example:
+– gender of the first person that will call you tomorrow
+– Your grade in the Final exam of STAT 587-3
+
+### Parameter
+– numerical characteristic of the population
+– based on the whole population
+• Example
+– Proportion of male among ISU students
+• Statistic
+– numerical characteristic of the sample
+– calculated using the sample
+• Example
+– Proportion of male students in STAT 587-3
 
 All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
 
-### An unnumbered section {-}
+## Mathematical Notation
+### Sample Mean
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+### Sample Measures of Variation
+
+### Stem and Leaf Plot
+
+### Central Limit Theorem
