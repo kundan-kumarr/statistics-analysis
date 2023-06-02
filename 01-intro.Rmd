@@ -3,7 +3,7 @@
 ### What is statistics?
 It is methods for Collecting, Describing, Analyzing,and drawing conclusions from Data with Random Variation.
 The methods are used for  :
-a. Design
+a. Designing it
   •Planning research studies
   •How to obtain the required data
   
