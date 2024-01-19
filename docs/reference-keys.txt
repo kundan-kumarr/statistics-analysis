@@ -2,7 +2,7 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-probability-a
+probability
 experiments
 terminology
 preview-book
@@ -39,4 +39,3 @@ statistical-analysis-using-r
 read-and-combine-data
 pages
 event-driven-programming
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
